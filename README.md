@@ -29,15 +29,6 @@ This project contains an interactive dashboard for analyzing sales data using *P
 - *Power BI*
 - *Excel* (for data preparation)
 
----
 
-## 🚀 How to Use
-1. Download the Power BI file (.pbix) from this repository.
-2. Open it in *Power BI Desktop*.
-3. Explore and interact with the dashboard.
 
----
-
-## 📩 Contact
-For any inquiries or feedback, feel free to reach out via [GitHub Issues](../../issues).
 
