@@ -1,16 +1,16 @@
-# 📊 Power BI Sales Dashboard
+#  Power BI Sales Dashboard
 
 This project contains an interactive dashboard for analyzing sales data using *Power BI*.
 
 ---
-Overview
+## Overview
 
 This Power BI dashboard provides a comprehensive analysis of the Global Superstore dataset.
 It visualizes key performance metrics such as total sales, total profit, and customer count, helping users understand business performance across categories, years, and regions.
 
 ---
 
- Key Features
+##  Key Features
 
 Total Sales & Profit KPIs: Track overall performance with dynamic metrics.
 
@@ -29,13 +29,6 @@ Filters: Year slicers for customized analysis (2011–2014).
 
 
 
-##  Features
-- Displays monthly and yearly sales summaries.
-- Analyzes top-selling products and their profit margins.
-- Shows detailed sales performance by country.
-- Provides interactive and easy-to-read visualizations.
-
----
 
 ##   Tools Used
 
@@ -49,7 +42,7 @@ Data Modeling & DAX
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 
 ### Sales Overview
 ![Sales Overview](2025.png)
